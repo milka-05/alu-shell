@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This script displays the current directory content without the number prefix
+for file in *; do
+    echo "${file#*-}"
+done
