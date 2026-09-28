@@ -15,6 +15,7 @@ parsing as part of the `alu-shell` project.
 | `6-superstitious_numbers` | Displays numbers 1 to 20, adding a "bad luck" message for 4, 9 and 17, using `while` and `case` |
 | `7-clock` | Displays the time from 0 to 12 hours and 1 to 59 minutes using nested `while` loops |
 | `8-for_ls` | Lists the current directory content showing only the part of each name after the first dash, using a `for` loop |
+| `9-to_file_or_not_to_file` | Reports whether the `school` file exists, is empty, and is a regular file, using `if` and `else` |
 
 ## Author
 
