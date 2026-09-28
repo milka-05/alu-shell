@@ -11,6 +11,7 @@ parsing as part of the `alu-shell` project.
 | `2-while_best_school` | Displays "Best School" 10 times using a `while` loop |
 | `3-until_best_school` | Displays "Best School" 10 times using an `until` loop |
 | `4-if_9_say_hi` | Displays "Best School" 10 times, adding "Hi" after the 9th, using `while` and `if` |
+| `5-4_bad_luck_8_is_your_chance` | Loops from 1 to 10, printing "bad luck" on the 4th, "good luck" on the 8th and "Best School" otherwise, using `while` and `if`/`elif`/`else` |
 
 ## Author
 
