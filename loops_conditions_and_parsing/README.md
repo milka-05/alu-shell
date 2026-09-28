@@ -19,6 +19,7 @@ parsing as part of the `alu-shell` project.
 | `10-fizzbuzz` | Displays numbers from 1 to 100, replacing multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both with "FizzBuzz" |
 | `11-read_and_cut` | Displays the username, user ID, and home directory of each user from `/etc/passwd` using a `while` loop |
 | `12-tell_the_story_of_passwd` | Displays a sentence describing each user in `/etc/passwd` using a `while` loop and `IFS` |
+| `13-lets_parse_apache_logs` | Displays visitor IP addresses and HTTP status codes from the Apache access log using `awk` |
 
 ## Author
 
