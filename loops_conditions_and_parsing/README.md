@@ -17,6 +17,7 @@ parsing as part of the `alu-shell` project.
 | `8-for_ls` | Lists the current directory content showing only the part of each name after the first dash, using a `for` loop |
 | `9-to_file_or_not_to_file` | Reports whether the `school` file exists, is empty, and is a regular file, using `if` and `else` |
 | `10-fizzbuzz` | Displays numbers from 1 to 100, replacing multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both with "FizzBuzz" |
+| `11-read_and_cut` | Displays the username, user ID, and home directory of each user from `/etc/passwd` using a `while` loop |
 
 ## Author
 
