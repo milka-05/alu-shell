@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Displays all processes, user-oriented, with hierarchy
-ps auxf
